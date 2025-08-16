@@ -1,12 +1,13 @@
-\# Movie Recommender System 🎬
+# Movie Recommender System 🎬
+
+<img src="">
+
+
+A simple **Streamlit + ML** app that recommends 5 similar movies when you pick one.
 
 
 
-A simple \*\*Streamlit + ML\*\* app that recommends 5 similar movies when you pick one.
-
-
-
-\## How it works (very simple)
+### How it works (very simple)
 
 \- `movies.pkl` has movie info (title, id, tags)
 
@@ -18,11 +19,9 @@ A simple \*\*Streamlit + ML\*\* app that recommends 5 similar movies when you pi
 
 
 
-\## Run locally
+## Run locally
 
 ```bash
-
-pip install -r requirements.txt
 
 streamlit run app.py
 
