@@ -1,6 +1,6 @@
 # Movie Recommender System 🎬
 
-<img src="">
+<img src="photo4.png">
 
 
 A simple **Streamlit + ML** app that recommends 5 similar movies when you pick one.
